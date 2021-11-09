@@ -14,6 +14,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/qt.svg" alt="Android" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/blob/master/logos/c.svg" alt="C++" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django.svg" alt="Django" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="React" width="40" height="40"/>
