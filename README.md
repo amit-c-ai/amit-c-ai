@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on Django.
 - 🌱 I’m learning backend designing and SQL.
 - 👯 I’m looking to collaborate on Desktop Applications for various OS.
-- 🤔 I’m looking for help with machine learning and stuff.
-- 💬 Ask me about Python, C and c++ 😉
+- 🤔 I’m looking for help with PPA and Launchpad.
+- 💬 Ask me about Python, C and C++ 😉
   
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
